@@ -3,9 +3,11 @@ RRGPredictor a texmining-based tool for predicting pathogen-associated molecular
 
 
 Note
+
 this scripti use the List::Compare perl module (https://metacpan.org/pod/List::Compare)
 
 for instalation of List::Compare module use:
+
 sudo cpan -i List::Compare
 
 This tool use a InterProScan output analysis in TSV format.
