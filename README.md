@@ -1,5 +1,5 @@
 # RRG_predictor
-RRGPredictor a texmining-based tool for predicting pathogen-associated molecular pattern receptors (PRRs) and Resistance (R) proteins  
+RRGPredictor is a texmining-based tool for predicting molecular pattern receptors (PRRs) and R proteins
 
 
 **Note**
