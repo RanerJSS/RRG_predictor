@@ -24,7 +24,7 @@ $ perl ClasfRRG.pl
  
 Place the .tsv file in the same folder as the RRG_DomainDetect.pl and ClasfRRG.pl scripts.
 ```sh
-$ perl RRG_DomainDetect.pl * .tsv
+$ perl RRG_DomainDetect.pl *.tsv
 
 $ perl ClasfRRG.pl
 ```
