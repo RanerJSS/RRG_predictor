@@ -1,5 +1,6 @@
 # RRG_predictor
 RRGPredictor is a texmining-based tool for predicting molecular pattern receptors (PRRs) and R proteins
+By: Raner José Santana Silva - SILVA.R.J.S
 
 
 **Note**
