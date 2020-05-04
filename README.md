@@ -2,6 +2,16 @@
 RRGPredictor is a texmining-based tool for predicting molecular pattern receptors (PRRs) and R proteins
 By: Raner José Santana Silva - SILVA.R.J.S
 
+If you use RRG_predictor please cite: 
+
+SILVA, Raner José Santana; MICHELI, Fabienne. RRGPredictor, a set-theory-based tool for predicting pathogen-associated molecular pattern receptors (PRRs) and resistance (R) proteins from plants. Genomics, 2020.
+
+Silva, Raner José Santana, and Fabienne Micheli. "RRGPredictor, a set-theory-based tool for predicting pathogen-associated molecular pattern receptors (PRRs) and resistance (R) proteins from plants." Genomics (2020).
+
+Silva, R. J. S., & Micheli, F. (2020). RRGPredictor, a set-theory-based tool for predicting pathogen-associated molecular pattern receptors (PRRs) and resistance (R) proteins from plants. Genomics.
+
+https://doi.org/10.1016/j.ygeno.2020.03.001
+
 
 **Note**
 
