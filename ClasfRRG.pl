@@ -80,7 +80,7 @@ push ( @ { $htir{$TIRID[0]."\n"} }, $TIRD[$i] );
 @Lptol=keys %hptol;
 @Lrpw8=keys %hrpw8;
 @Ltir=keys %htir;
-open (OUT,'>',"MLO _class.txt"); #### MLO ####
+open (OUT,'>',"MLO_class.txt"); #### MLO ####
 print OUT keys %hmlo;
 close OUT;
 $CN = List::Compare->new(\@Lcois, \@Lnbs);
